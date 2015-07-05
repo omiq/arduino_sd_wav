@@ -6,3 +6,11 @@ See it in action here: https://www.youtube.com/watch?v=qhXSU2_4724
 ![breadboard](https://github.com/omiq/arduino_sd_wav/blob/master/sd-audio_breadboard.png)
 
 Requires https://github.com/TMRh20/TMRpcm/archive/master.zip
+
+Get sound files from around the web but start here: http://www.bbc.co.uk/schools/teachers/doctorwhocompetition/sounds.shtml
+
+Files must be WAV, 8-bit, 8-32khz Sample Rate, mono. Using iTunes:
+
+> Click _> Edit > Preferences > Import Settings_
+> Change the dropdown to _WAV Encoder_ and Setting: _Custom > 16.000kHz to 32kHz, 8-bit, Mono_
+> Right click any file in iTunes, and select _"Create WAV Version"_
