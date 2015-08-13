@@ -14,6 +14,10 @@ https://www.youtube.com/watch?v=qhXSU2_4724
 
 ![breadboard](https://github.com/omiq/arduino_sd_wav/blob/master/sd-audio_breadboard.png)
 
+Optional: Add your LED to pin 3
+
+Above is Arduino Uno - View the code for smaller Arduino pins
+
 Requires https://github.com/TMRh20/TMRpcm/archive/master.zip
 
 Get sound files from around the web but start here: http://www.bbc.co.uk/schools/teachers/doctorwhocompetition/sounds.shtml
