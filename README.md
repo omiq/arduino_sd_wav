@@ -30,3 +30,10 @@ Files must be WAV, 8-bit, 8-32khz Sample Rate, mono. Using iTunes:
 
 
 **3D Model** http://www.thingiverse.com/thing:124033
+
+
+## Comments / Suggestions?
+
+Chris Garrett
+Twitter: http://twitter.com/makerhacks http://twitter.com/chrisgarrett
+HTTP://MAKERHACKS.COM
