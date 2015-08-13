@@ -1,4 +1,4 @@
-# Arduino wav audio for Doctor Who Tardis using SD card
+# Arduino Playing Doctor Who Theme for 3D Printed Tardis using WAV Sound Samples off 4GB SD memory card
 Playing Doctor Who theme on Auduino ( wav audio sound samples ) using SD memory card and speaker
 
 **See it in action here:** 
